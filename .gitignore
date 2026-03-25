@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (optional – remove if needed)
+*.csv
+*.xlsx
+
+# Temporary files
+*.tmp
