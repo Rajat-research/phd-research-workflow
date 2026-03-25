@@ -13,3 +13,5 @@ This paper provides an overview of machine learning advancements and its impact 
 
 ## Relevance
 This paper is useful for understanding how computational tools can support research workflows.
+## Notes
+Important paper for understanding ML in research.
