@@ -13,3 +13,6 @@ This paper outlines best practices for writing and managing scientific code effi
 
 ## Relevance
 This paper directly supports the importance of Git in research workflows.
+
+## Notes
+Emphasizes best practices in scientific computing.
