@@ -13,3 +13,5 @@ The paper discusses how online tools and platforms like GitHub help researchers 
 
 ## Relevance
 This supports the use of GitHub in managing and sharing PhD research work.
+## Notes
+Highlights importance of collaboration tools.
