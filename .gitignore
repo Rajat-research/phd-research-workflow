@@ -20,7 +20,7 @@ Thumbs.db
 *.log
 
 # Data files (optional – remove if needed)
-*.csv
+# *.csv
 *.xlsx
 
 # Temporary files
