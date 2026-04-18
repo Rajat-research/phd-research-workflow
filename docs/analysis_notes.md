@@ -4,6 +4,5 @@
 
 \## Missing Value Strategy
 
-Missing values are handled using mean imputation because it is simple and effective.
-... mean imputation because it is simple and effective.
-... median imputation to reduce effect of outliers.
+Missing values are handled using mean imputation for baseline analysis, while median imputation may be considered to reduce outliers.
+
