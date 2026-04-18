@@ -13,3 +13,5 @@ data.fillna(data.mean(numeric_only=True), inplace=True)
 data.to_csv('data/cleaned_data.csv', index=False)
 
 print("Cleaned data saved as data/cleaned_data.csv")
+
+# Minor update for pull request demonstration
