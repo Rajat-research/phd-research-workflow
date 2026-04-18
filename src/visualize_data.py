@@ -21,3 +21,5 @@ plt.title('Temperature vs Humidity')
 plt.savefig('results/temp_humidity_plot.png')
 
 print("Plots saved in results/ folder")
+
+# Minor update for visualization PR
